@@ -1,2 +1,2 @@
 # FJTabbarAnimation
-自定义tabbar专场动画
+自定义tabbar转场动画
